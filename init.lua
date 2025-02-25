@@ -118,6 +118,9 @@ vim.opt.showmode = false
 --   vim.opt.clipboard = 'unnamedplus'
 -- end)
 
+-- Disable line wrapping
+vim.opt.wrap = false
+
 -- Enable break indent
 vim.opt.breakindent = true
 
